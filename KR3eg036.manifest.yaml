@@ -1,0 +1,117 @@
+canonical_identifier: bkk:krp/KR3eg036/v1
+canonical_location: https://kanripo.org/bkk/KR3eg036/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 鄒氏寒疫論
+  identifiers:
+    krp: KR3eg036
+  tags:
+    kr-categories: KR3eg
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eg036.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3eg036_000.yaml, hash: 'sha256:0b89d426ef21c195b8519e5fc888721d202e7a2f43e488a19891db3587c732e4'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eg036_000.markers.yaml, hash: 'sha256:ab7d5d143a581bebd5e84648fe727e31f8b8e647de206adadf4de9f6745f51c5'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eg036_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 229
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg036_jc_000-d3.h1s1
+    span:
+    - body
+    - 0
+    - 4236
+  label: 寒疫痢證論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg036_jc_000-d3d4
+    span:
+    - body
+    - 926
+    - 1297
+  label: 太陽證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eg036_jc_000-d3d5
+    span:
+    - body
+    - 1297
+    - 3596
+  label: 陽明證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eg036_jc_000-d3d6
+    span:
+    - body
+    - 3596
+    - 4236
+  label: 少陰證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eg036_jc_000-d4.h1s1
+    span:
+    - body
+    - 4236
+    - 5457
+  label: 續寒疫痢證
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg036_jc_000-d5.h1s1
+    span:
+    - body
+    - 5457
+    - 8753
+  label: 附類方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg036_jc_000-d6.h1s1
+    span:
+    - body
+    - 8753
+    - 9592
+  label: 附瘟疫方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg036_jc_000-d7.h1s1
+    span:
+    - body
+    - 9592
+    - 10009
+  label: 附採名方
+  type: section
+  level: 1
+hash: sha256:7cc789da92bff66d19371fbf3cf1aa55bf40d282d3ec3f8158541a1eab972363
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

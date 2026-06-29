@@ -1,0 +1,114 @@
+canonical_identifier: bkk:krp/KR3eg036/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3eg036/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 鄒氏寒疫論
+  identifiers:
+    krp: KR3eg036
+  tags:
+    kr-categories: KR3eg
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eg036.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3eg036_000-jc.yaml, hash: 'sha256:4d56657e63ffcadea521379d22ce5008e42ab18ab7fa852648fba8540c42301e'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eg036_000-jc.markers.yaml, hash: 'sha256:28d4a3d5fdd6846a3bad2cfc5c03bf9cecde24d84fe9a6816021d39c7c328000'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eg036_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 229
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg036_jc_000-d3.h1s1
+    span:
+    - body
+    - 0
+    - 4236
+  label: 寒疫痢證論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg036_jc_000-d3d4
+    span:
+    - body
+    - 926
+    - 1297
+  label: 太陽證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eg036_jc_000-d3d5
+    span:
+    - body
+    - 1297
+    - 3596
+  label: 陽明證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eg036_jc_000-d3d6
+    span:
+    - body
+    - 3596
+    - 4236
+  label: 少陰證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eg036_jc_000-d4.h1s1
+    span:
+    - body
+    - 4236
+    - 5457
+  label: 續寒疫痢證
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg036_jc_000-d5.h1s1
+    span:
+    - body
+    - 5457
+    - 8753
+  label: 附類方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg036_jc_000-d6.h1s1
+    span:
+    - body
+    - 8753
+    - 9592
+  label: 附瘟疫方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg036_jc_000-d7.h1s1
+    span:
+    - body
+    - 9592
+    - 10009
+  label: 附採名方
+  type: section
+  level: 1
+hash: sha256:4a689f2437e31aeb185134f36771ae2c3950e89208993d40efc6c55e3c9d8ae4
