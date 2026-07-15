@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3eg036/v1
 canonical_location: https://kanripo.org/bkk/KR3eg036/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 鄒氏寒疫論
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eg036_000.yaml, hash: 'sha256:4d56657e63ffcadea521379d22ce5008e42ab18ab7fa852648fba8540c42301e'}
+  - {seq: 0, filename: KR3eg036_000.yaml, hash: 'sha256:fb9f43501d21dd2f83526dd8623a51590575a00bb5028aa5d09e161160971d16'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eg036_000.markers.yaml, hash: 'sha256:df86be5de9e1162c876ef78da6240fba1041307a1bcf1ee16f4f5fea283dfb3f'}
+  - {seq: 0, role: markers, filename: assets/KR3eg036_000.markers.yaml, hash: 'sha256:938524eae3044710829469777dc29ec06d88c7b095445f7f77cf2dc419ab8e05'}
 table_of_contents:
 - ref:
     seq: 0
@@ -111,4 +111,7 @@ table_of_contents:
   label: 附採名方
   type: section
   level: 1
-hash: sha256:8f1207c3013b24509e9330eeaeefa499a37ff9eb7d157269ac599b760769f614
+hash: sha256:8d7145e3e0beb112bb66fa252485214e2f472dcb260642464d883a7805866845
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
