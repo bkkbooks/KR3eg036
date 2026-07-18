@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3eg036_000-jc.yaml, hash: 'sha256:4d56657e63ffcadea521379d22ce5008e42ab18ab7fa852648fba8540c42301e'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eg036_000-jc.markers.yaml, hash: 'sha256:28d4a3d5fdd6846a3bad2cfc5c03bf9cecde24d84fe9a6816021d39c7c328000'}
+  - {seq: 0, role: markers, filename: assets/KR3eg036_000-jc.markers.yaml, hash: 'sha256:b74248b3169d0c996c300323f133b6487f4aa70f43786cf23ac07d65a02b86a8'}
 table_of_contents:
 - ref:
     seq: 0
@@ -111,4 +111,4 @@ table_of_contents:
   label: 附採名方
   type: section
   level: 1
-hash: sha256:4a689f2437e31aeb185134f36771ae2c3950e89208993d40efc6c55e3c9d8ae4
+hash: sha256:0d084495c7becad143da3fc2c3035f71f3672c1b8659cd73322ccc1b89567f4e
